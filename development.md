@@ -1,4 +1,4 @@
-# Development
+# Developments awesome
 
 Primo gives you the ability to develop your site directly from Primo by embedding a development environment within the CMS's interface. This means you can immediately access your site's code & don't need to spend time setting up a local development environment, while still having the option to use a traditional development environment for more advanced components. 
 
